@@ -9,4 +9,4 @@ EasyWeather is a web application that provides real-time weather information for
 # Technologies Used
  1.HTML5, CSS3, and JavaScript: The core technologies used for the front-end development of the app.</br>
  2.Geolocation API: Retrieves the user's latitude and longitude coordinates to provide accurate weather data.</br>
- 3.Weather API: Retrieves weather data based on the user's location or city name. 
+ 3.Weather API: Retrieves weather data based on the user's location or city name.
