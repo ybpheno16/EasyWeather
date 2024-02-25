@@ -12,7 +12,7 @@ EasyWeather is a web application that provides real-time weather information for
  3.Weather API: Retrieves weather data based on the user's location or city name. 
   
      
-  
+   
                   
                                                                                                                 
       
