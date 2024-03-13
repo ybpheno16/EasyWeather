@@ -11,7 +11,7 @@ EasyWeather is a web application that provides real-time weather information for
  2.Geolocation API: Retrieves the user's latitude and longitude coordinates to provide accurate weather data.</br>
  3.Weather API: Retrieves weather data based on the user's location or city name. 
                                      
-      
+       
       
                                                       
                                                                  
