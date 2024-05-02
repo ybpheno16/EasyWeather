@@ -14,7 +14,7 @@ EasyWeather is a web application that provides real-time weather information for
         
            
                                                        
-                                                                      
+                                                                       
                                      
    
  
